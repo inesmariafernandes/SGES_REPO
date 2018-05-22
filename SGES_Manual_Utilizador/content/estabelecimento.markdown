@@ -128,6 +128,7 @@ Após o preenchimento da identificação do estabelecimento, dependendo do tipo 
 
 
 O estabelecimento pode ter ainda atividades associadas. Estas são mostradas no separador Atividades ([](#figCapacidade)). Salienta-se que esta informação apenas pode ser consultada.
+
 ![figCapacidade](img/pages/cap7/7_1_1_5.jpg)
 
 <p class="caption" id="figAtividades"> Painel das Atividades </p>
