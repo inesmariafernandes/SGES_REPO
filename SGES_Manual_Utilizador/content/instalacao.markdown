@@ -28,6 +28,9 @@ Para aceder às  instalações de um estabelecimento, o utilizador tem três alt
 
 <p class="caption" id="figEstabeSInst"> Exemplo de Estabelecimento sem Instalações</p>
 
+Apenas entidades públicas, à exceção de ACES, ARSs e Hospitais Militares, possuem instalações.
+
+Entidade não é ACES, nem ARS, nem Hospital Militar
 
 <p id="criaInstalacao"></p>
 ## 15.1. Criar Instalações
